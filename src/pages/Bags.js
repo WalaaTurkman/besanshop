@@ -16,10 +16,10 @@ const bagsData = [
   { title: "Michael kors", price: 150, image: "/images/bags/Michaelkors.jpg" },
   { title: "Mini Fendi", price: 120, image: "/images/bags/MiniFendi.jpg" },
   { title: "Miu miu", price: 150, image: "/images/bags/Miumiu.jpg" },
-  { title: "Polin - عسلي", price: 180, image: "/images/bags/Polin.jpg" },
-  { title: "Polin بيج ", price: 180, image: "/images/bags/Polinb.jpg" },
-  { title: "Polin black ", price: 180, image: "/images/bags/Polinblack.jpg" },
-  { title: "Polin numero neuf", price: 170, image: "/images/bags/Polinnumeroneuf.jpg" },
+  { title: "Polène - عسلي", price: 180, image: "/images/bags/Polin.jpg" },
+  { title: "Polène بيج ", price: 180, image: "/images/bags/Polinb.jpg" },
+  { title: "Polène Black ", price: 180, image: "/images/bags/Polinblack.jpg" },
+  { title: "Polène numero neuf", price: 170, image: "/images/bags/Polinnumeroneuf.jpg" },
 ];
 
 function Bags() {
