@@ -1,4 +1,4 @@
-// src/pages/Home.js
+
 
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
@@ -6,7 +6,7 @@ import BasicExample from "../componnt/Card";
 import UncontrolledExample from "../componnt/Carousel";
 import "../App.css";
 
-// ✅ لازم يكون تعريف المنتجات هنا خارج الـ function
+
 const products = [
   {
     title: "مچ بطوطة بُني",
@@ -71,7 +71,7 @@ function Home() {
           </Link>
         </div>
 
-        {/* الكروت */}
+        {/* البطاقات */}
         <Row style={{ direction: "rtl", marginTop: "2rem" }}>
           {products.map((item, index) => (
             <Col key={index} md={4}>
