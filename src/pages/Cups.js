@@ -20,9 +20,9 @@ const cupsData = [
 ];
 
 function Cups() {
-  const [sortOrder, setSortOrder] = useState("asc"); // الحالة الافتراضية: تصاعدي
+  const [sortOrder, setSortOrder] = useState("asc"); 
 
-  // عمل نسخة مرتبة من البيانات حسب الاختيار
+
   const sortedCups = [...cupsData].sort((a, b) =>
     sortOrder === "asc" ? a.price - b.price : b.price - a.price
   );
