@@ -33,7 +33,7 @@ function Bags() {
     <Container style={{ marginTop: "1rem", direction: "rtl" }}>
       <h2 className="text-center mb-4" style={{ fontFamily: "Cairo" }}>👜 مجموعة الحقائب</h2>
 
-      {/* القائمة المنسدلة لاختيار الترتيب */}
+      
       <Form.Select
         style={{ maxWidth: "250px", marginBottom: "1rem" }}
         value={sortOrder}
