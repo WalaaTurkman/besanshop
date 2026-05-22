@@ -33,7 +33,7 @@ function Cups() {
         🧉 مجموعة الأكواب
       </h2>
 
-      {/* القائمة المنسدلة لاختيار الترتيب */}
+      
       <Form.Select
         style={{ maxWidth: "250px", marginBottom: "1rem" }}
         value={sortOrder}
