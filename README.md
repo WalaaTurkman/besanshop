@@ -53,6 +53,10 @@ The main goal of the project is to practice building responsive layouts and inte
 ---
 
 ## 📷 Preview
+<img width="1337" height="686" alt="image" src="https://github.com/user-attachments/assets/2f59d9ee-9081-4b8f-af69-3a6237b01082" />
+<img width="1334" height="685" alt="image" src="https://github.com/user-attachments/assets/c09d3e8c-03bd-4021-82a0-6d29ee8f37c3" />
+<img width="1332" height="680" alt="image" src="https://github.com/user-attachments/assets/45ad87ea-f72f-4f00-844d-df88f74a8149" />
+
 
 
 ---
