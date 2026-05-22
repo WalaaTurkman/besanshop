@@ -54,7 +54,7 @@ function Home() {
           ⭐ التشكيلة المميزة
         </h2>
 
-        {/* الأزرار */}
+        
         <div
           style={{
             display: "flex",
